@@ -1,0 +1,82 @@
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.exe
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.deps.json
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.runtimeconfig.json
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.runtimeconfig.dev.json
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.pdb
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.csprojAssemblyReference.cache
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.AssemblyInfoInputs.cache
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.AssemblyInfo.cs
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToDoListAPI.StaticWebAssets.Manifest.cache
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToDoListAPI.StaticWebAssets.xml
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.pdb
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.genruntimeconfig.cache
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.csproj.CopyComplete
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.csproj.CoreCompileInputs.cache
+C:\Users\tusha\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.exe
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.deps.json
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.runtimeconfig.json
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.runtimeconfig.dev.json
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\ToDoListAPI.pdb
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.csprojAssemblyReference.cache
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.AssemblyInfoInputs.cache
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.AssemblyInfo.cs
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.csproj.CopyComplete
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToDoListAPI.StaticWebAssets.Manifest.cache
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToDoListAPI.StaticWebAssets.xml
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.dll
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.pdb
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.genruntimeconfig.cache
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shatabdi .LAPTOP-MIUQA79C\Downloads\ToDoListAPI\ToDoListAPI\obj\Debug\netcoreapp3.1\ToDoListAPI.MvcApplicationPartsAssemblyInfo.cache
